@@ -1,5 +1,5 @@
 # cmpt-353-final-project
-##Topic
+## Topic
 Sensors, Noise, and Walking
 ## DATA
 The data was adapted from a open source website :
